@@ -1,6 +1,6 @@
 # Storybook Addon Bugherd
 
-Storybook Status Addon can be used to add a [Bugherd](https://bugherd.com/)feedback button in [Storybook](https://storybook.js.org).
+Storybook Status Addon can be used to add a [Bugherd](https://bugherd.com/) feedback button in [Storybook](https://storybook.js.org).
 
 ## Installation
 
