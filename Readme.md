@@ -2,6 +2,8 @@
 
 Storybook Status Addon can be used to add a [Bugherd](https://bugherd.com/) feedback button in [Storybook](https://storybook.js.org).
 
+![React Storybook Screenshot](https://raw.githubusercontent.com/etchteam/storybook-addon-bugherd/master/screenshot.png)
+
 ## Installation
 
 ```sh
