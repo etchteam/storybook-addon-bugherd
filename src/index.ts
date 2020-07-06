@@ -4,7 +4,7 @@ import { ADDON_ID } from './register';
 
 function shouldButtonShow() {
   // @ts-ignore
-  const bh = _bugHerd as any; 
+  const bh = typeof(_bugHerd) !== 'undefined' ? _bugHerd : undefined
   if (
     typeof(bh) != 'undefined'
     && typeof(bh.win) != 'undefined'
