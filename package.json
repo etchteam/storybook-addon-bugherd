@@ -22,7 +22,9 @@
     "storybook",
     "addon",
     "status",
-    "react"
+    "react",
+    "storybook-addon",
+    "test"
   ],
   "author": "gavmck",
   "license": "MIT",
@@ -68,5 +70,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "storybook": {
+    "displayName": "Bugherd"
   }
 }
