@@ -21,10 +21,8 @@
   "keywords": [
     "storybook",
     "addon",
-    "status",
-    "react",
-    "storybook-addon",
-    "test"
+    "bugherd",
+    "storybook-addon"
   ],
   "author": "gavmck",
   "license": "MIT",
