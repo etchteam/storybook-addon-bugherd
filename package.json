@@ -21,8 +21,9 @@
   "keywords": [
     "storybook",
     "addon",
+    "storybook-addon",
     "bugherd",
-    "storybook-addon"
+    "feedback"
   ],
   "author": "gavmck",
   "license": "MIT",
