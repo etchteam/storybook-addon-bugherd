@@ -1,6 +1,6 @@
 # Storybook Addon Bugherd
 
-Storybook Status Addon can be used to add a [Bugherd](https://bugherd.com/) feedback button in [Storybook](https://storybook.js.org).
+A Storybook Addon to add a [Bugherd](https://bugherd.com/) feedback button in [Storybook](https://storybook.js.org).
 
 ![React Storybook Screenshot](https://raw.githubusercontent.com/etchteam/storybook-addon-bugherd/master/screenshot.png)
 
@@ -12,7 +12,7 @@ npm install @etchteam/storybook-addon-bugherd --save-dev
 
 ## Configuration
 
-Create a file called `main.js` in your storybook config.
+Create a file called `main.js` in your `.storybook` config folder.
 
 Add the following content to it:
 
